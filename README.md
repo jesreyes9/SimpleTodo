@@ -32,8 +32,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Some of the challenges I encountered when building the app were having to become familiar with Android Studio as I am pretty new to this integrated development environment (IDE) and positioning the buttons underneath the edit fields. 
 
 ## License
 
@@ -50,4 +49,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-Simple Todo app for CodePath
+
